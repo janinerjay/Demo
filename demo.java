@@ -8,4 +8,8 @@ public class demo {
         out.println("Janine");
         out.println("ian");
     }
+    
+    public int multiplyByTwo(int number) { 
+    		return number * 2; 
+    	}
 }
